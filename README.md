@@ -28,3 +28,4 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 2. Northwind veritabanını yükleyin. (Repository'de mevcut.)
 3. Bu repo içindeki SQL dosyasını çalıştırın.
 
+Proje Sunumu: [Northwind Tabanlı MSSQL ile Veri Odaklı Uygulamalar](https://www.canva.com/design/DAGi_cr351U/h-Hn76cDVgvwxbvGWeE16w/edit?utm_content=DAGi_cr351U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
