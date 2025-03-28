@@ -26,5 +26,5 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
 1. MSSQL Server ve SSMS (SQL Server Management Studio) kurulu olmalıdır.
 2. Northwind veritabanını yükleyin. (Repository'de mevcut.)
-3. Bu repo içindeki SQL dosyalarını sırasıyla çalıştırın.
+3. Bu repo içindeki SQL dosyasını çalıştırın.
 
