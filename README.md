@@ -20,7 +20,7 @@ Projede aşağıdaki SQL konularına yönelik uygulamalar yapılmıştır:
 - 🎯CASE yapısı ile koşullu sorgular  
 - 🧭LEFT JOIN ve NULL kontrolü
 
-## 🚀 Kurulum / Başlangıç
+## 🚀 Kurulum 
 
 Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
